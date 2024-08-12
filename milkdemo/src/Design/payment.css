@@ -1,0 +1,51 @@
+.payment{
+  text-align: center;
+  max-width: 700px;
+  height: 500px;
+  margin-top: 70px;
+  margin-left: 30%;
+  background-color: white;
+  border-radius: 15px;
+}
+.payment h1{
+  padding-top: 25px;
+  padding-bottom: 30px;
+}
+.voucher{
+  margin-right:250px;
+}
+.datetime{
+  margin-left: 280px;
+  position: relative;
+  top: -25px;
+}
+.fromcontrol{
+  margin-right: 245px;
+  position: relative;
+  top: -60px;
+}
+.fromcontrol2{
+  margin-right: 245px;
+  position: relative;
+  top: -100px;
+}
+.Amount1{
+  margin-right:250px;
+  position: relative;
+  top: -140px;
+}
+.Narration1{
+  margin-right:250px;
+  position: relative;
+  top: -170px;
+}
+.Save-edit{
+  margin-right: 130px;
+  position: relative;
+  top: -170px;
+}
+.Save-edit1{
+  margin-left: 50px;
+  position: relative;
+  top: -205px;
+}

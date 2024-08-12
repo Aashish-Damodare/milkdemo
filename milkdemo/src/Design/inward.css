@@ -1,0 +1,58 @@
+.milk-form-container {
+  text-align: center;
+  max-width: 900px;
+  height: 450px;
+  margin-top: 70px;
+  margin-left: 25%;
+  background-color: white;
+  border-radius: 15px;
+}
+.inwar-voucher{
+  margin-top: 9px;
+  padding: 10px;
+}
+.inwad_Account{
+  margin-right:490px;
+  position: relative;
+  top: -20px;
+}
+.inwad-voucher{
+  margin-right:490px;
+  position: relative;
+  top: -20px;
+}
+.inwad-AC{
+  margin-left: 100px;
+  position: relative;
+  top: -20px;
+  display: flex;
+}
+.inwad-fat{
+  margin-top: 7px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.inwad-liters{
+  margin-top: 7px;
+}
+h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+  padding-top: 10px;
+}
+.upper-container, .Shift-container, .name, .b-container {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.inwad-save{
+  margin-top: 30px;
+  margin-right: 20px;
+}
+
+
+
